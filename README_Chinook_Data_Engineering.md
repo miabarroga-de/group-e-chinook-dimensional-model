@@ -1,8 +1,8 @@
-# 🎵 Chinook Data Engineering Project
+# Chinook Data Engineering Project
 
 ## Project Overview
 
-This project builds an end-to-end data engineering and analytics workflow using the **Chinook dataset** in Databricks.
+This project, created by Group E, builds an end-to-end data engineering and analytics workflow using the **Chinook dataset** in Databricks. 
 
 The notebook follows this sequence:
 
