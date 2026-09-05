@@ -40,7 +40,7 @@ The main goals are to:
                              ▼
                  ┌─────────────────────────┐
                  │ DATA QUALITY CHECK      │
-                 │ Invoice reconciliation │
+                 │ Invoice reconciliation  │
                  └────────────┬────────────┘
                               │
                               ▼
